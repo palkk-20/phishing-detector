@@ -1,0 +1,61 @@
+{
+  "Majority-class baseline": {
+    "accuracy": 0.5729277308068148,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "false_negative_rate": 1.0,
+    "confusion_matrix": [
+      [
+        26970,
+        0
+      ],
+      [
+        20104,
+        0
+      ]
+    ],
+    "test_samples": 47074,
+    "brier_score": 0.4270722691931852
+  },
+  "Logistic Regression": {
+    "accuracy": 0.797361600883715,
+    "precision": 0.7413092138321685,
+    "recall": 0.8072025467568643,
+    "f1": 0.7728539111799023,
+    "false_negative_rate": 0.19279745324313569,
+    "confusion_matrix": [
+      [
+        21307,
+        5663
+      ],
+      [
+        3876,
+        16228
+      ]
+    ],
+    "test_samples": 47074,
+    "brier_score": 0.1470441066505097,
+    "latency_ms_single": 1.6929969200003825
+  },
+  "Random Forest": {
+    "accuracy": 0.8741130985257255,
+    "precision": 0.8271946829133204,
+    "recall": 0.8914643851969757,
+    "f1": 0.8581278429494853,
+    "false_negative_rate": 0.10853561480302427,
+    "confusion_matrix": [
+      [
+        23226,
+        3744
+      ],
+      [
+        2182,
+        17922
+      ]
+    ],
+    "test_samples": 47074,
+    "brier_score": 0.09156764271722061,
+    "latency_ms_single": 5.859880575000034
+  }
+}

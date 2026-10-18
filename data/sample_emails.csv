@@ -1,0 +1,41 @@
+text,label
+URGENT: Your account has been suspended. Verify your password immediately at http://secure-login-update.example-bank.com/verify or your account will be closed within 24 hours.,phishing
+"Dear customer, we detected unusual activity on your PayPal account. Click here to confirm your identity and restore access: http://paypa1-secure.example.net/login",phishing
+"Congratulations! You are the winner of our international lottery. Claim your prize of $1,000,000 now by sending your bank account number and a processing fee.",phishing
+Final notice: your mailbox storage is full. Log in to verify your email password at www.mail-upgrade-center.example.org to avoid losing messages.,phishing
+Your package could not be delivered. Pay the small customs fee of $2.99 here http://parcel-fee.example.info/track to schedule redelivery.,phishing
+Security alert!!! Someone tried to sign in to your Microsoft account. Confirm your credentials immediately to keep your account safe: http://192.168.44.12/ms/login,phishing
+"Dear user, your bank card has been blocked. Update your card details and PIN at the link below within 24 hours: http://bank-secure-update.example.com/card",phishing
+You have received a refund of $249.00 from the tax department. Submit your SSN and bank details to claim your refund today.,phishing
+Apple ID locked. Your Apple ID was used to sign in from a new device. Unlock your account now: http://apple-id-unlock.example.net/verify,phishing
+IMPORTANT: Invoice #839201 attached. Payment overdue. Open the attachment and enter your email password to view the invoice.,phishing
+Your Netflix payment failed. Update your billing information immediately to avoid cancellation: http://netflix-billing-help.example.com/update,phishing
+"Dear account holder, we need to confirm your identity. Reply with your full name, date of birth, password and OTP code to keep your account active.",phishing
+Limited time offer! Claim your free gift card now. Just confirm your credit card number at http://free-gift-card.example.biz/claim,phishing
+HR notice: salary revision documents are ready. Sign in with your company email and password here to view: http://hr-docs-portal.example.org/signin,phishing
+Your account will be deleted today. ACT NOW and verify your login details at http://account-verify-now.example.co/login to keep your data.,phishing
+"We noticed a suspicious payment of $899 on your credit card. If this was not you, click here to cancel the payment and verify your account.",phishing
+Wire transfer pending: a beneficiary has left you an inheritance. Provide your bank account number and passport copy to receive the funds.,phishing
+Amazon: Your order was cancelled due to a billing problem. Update your payment method here http://amazon-billing-fix.example.net/pay within 24 hours.,phishing
+"Dear member, your password expires today. Click the link to keep your current password: http://password-expiry-notice.example.com/keep",phishing
+Bank of Example: new security rules require you to confirm your online banking login. Verify now: http://onlinebanking-confirm.example.org/secure,phishing
+"Hi team, the weekly project meeting is moved to Thursday at 3 PM in the main conference room. Please bring your progress notes.",legitimate
+Thanks for your order. Your receipt is attached and your books will ship within three business days. You can track the order from your account page.,legitimate
+"Hello Priya, I have reviewed your draft report and added a few comments in the shared document. Let me know if you want to discuss on a call.",legitimate
+Reminder: the library book you borrowed is due next Monday. You can renew it at the front desk or by visiting the library counter.,legitimate
+"Good morning everyone, attached are the lecture slides for chapter 4. The assignment is due next Friday; please ask if anything is unclear.",legitimate
+"Hi Rahul, are we still on for lunch tomorrow? I was thinking of the new cafe near the campus gate around 1 PM.",legitimate
+"Your monthly newsletter is here: three new articles on machine learning basics, plus upcoming workshop dates for the student chapter.",legitimate
+"Dear students, the semester exam timetable has been published on the notice board. Please check your slots and report any clash to the office.",legitimate
+Thanks for attending yesterday's seminar. The recording and slides are available on the department shared drive for the next two weeks.,legitimate
+"Hi Anna, I have booked the meeting room for our demo on Wednesday morning. I will bring the laptop and the projector cable.",legitimate
+Your flight check-in opens tomorrow. You can print your boarding pass from the airline website using your booking reference.,legitimate
+"Hello, this is a confirmation that your appointment with Dr. Sharma is scheduled for Tuesday at 10:30. Please arrive ten minutes early.",legitimate
+"Minutes of the club meeting are attached. Action items: finalize the budget, book the hall, and send invitations by next week.",legitimate
+"Hi all, the lab will be closed on Saturday for maintenance. Please save your work and back up your files before leaving on Friday.",legitimate
+Congratulations on completing the course! Your certificate is available in your learner dashboard whenever you are ready to download it.,legitimate
+"Dear parents, the annual sports day will be held on the 12th. Children should wear their house colours and carry a water bottle.",legitimate
+Just a note to say thanks for helping me with the code review. The tests pass now and I merged the changes this afternoon.,legitimate
+"The quarterly report is ready for your review. Revenue was up four percent, and the detailed tables are in the attached spreadsheet.",legitimate
+"Hi Sam, here is the recipe I mentioned yesterday. It takes about thirty minutes and works well with leftover rice and vegetables.",legitimate
+Your subscription renews next month at the same price. No action is needed; you can manage or cancel it anytime from your account settings.,legitimate
