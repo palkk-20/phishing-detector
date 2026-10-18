@@ -1,8 +1,0 @@
-{
-  "source_file": "emails.csv",
-  "demo_mode": false,
-  "n_emails": 38569,
-  "n_phishing": 21269,
-  "n_legit": 17300,
-  "n_test": 7714
-}
