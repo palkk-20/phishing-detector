@@ -5,6 +5,23 @@ legitimate, or **uncertain (manual review)** and explains which signals influenc
 
 > Educational project. A model score is not a guarantee of safety. The app only analyses text -
 > it never opens or visits a URL.
+<img width="1478" height="951" alt="Screenshot 2026-10-17 111703" src="https://github.com/user-attachments/assets/e82f9ad5-d255-4b43-8da5-cd078186a106" />
+<img width="1472" height="942" alt="Screenshot 2026-10-17 111627" src="https://github.com/user-attachments/assets/02eb1a1d-0182-4a6c-b931-c09059527368" />
+<img width="1466" height="955" alt="Screenshot 2026-10-17 111558" src="https://github.com/user-attachments/assets/37a22d3f-2cbe-4bfc-a121-afbcc11b23c5" />
+<img width="1472" height="958" alt="Screenshot 2026-10-17 111545" src="https://github.com/user-attachments/assets/0683235c-91ae-4c7d-8a2e-468ebab9a6bd" />
+<img width="1472" height="950" alt="Screenshot 2026-10-17 111508" src="https://github.com/user-attachments/assets/543cda10-f793-4234-baaf-b5fa50998092" />
+<img width="1477" height="955" alt="Screenshot 2026-10-17 111452" src="https://github.com/user-attachments/assets/08b08ea3-02cc-4add-9646-771829a86147" />
+<img width="1467" height="966" alt="Screenshot 2026-10-17 111414" src="https://github.com/user-attachments/assets/922cfba0-c207-48c1-8b31-47e227bd267e" />
+<img width="1470" height="951" alt="Screenshot 2026-10-17 111402" src="https://github.com/user-attachments/assets/d39242c2-3100-4699-8e71-40857cd9458c" />
+<img width="1482" height="945" alt="Screenshot 2026-10-17 111334" src="https://github.com/user-attachments/assets/c4b640ad-3bc7-4a87-bfa7-1ddc0fc87b1e" />
+<img width="1838" height="958" alt="Screenshot 2026-10-17 111321" src="https://github.com/user-attachments/assets/1717e944-a6b2-45a7-999a-c62ca458f779" />
+<img width="1842" height="955" alt="Screenshot 2026-10-17 111306" src="https://github.com/user-attachments/assets/f9c97878-71a8-4140-b03c-2895f134dc7b" />
+<img width="1843" height="957" alt="Screenshot 2026-10-17 111246" src="https://github.com/user-attachments/assets/24593809-3faf-4830-9f1c-c43f13fa7330" />
+<img width="1846" height="952" alt="Screenshot 2026-10-17 111223" src="https://github.com/user-attachments/assets/8ff3d7a1-95d4-496f-8a5f-5717818023db" />
+<img width="1847" height="952" alt="Screenshot 2026-10-17 111201" src="https://github.com/user-attachments/assets/8435b4c2-bce3-4591-8a62-dcdd2e37d2a7" />
+<img width="1850" height="947" alt="Screenshot 2026-10-17 111142" src="https://github.com/user-attachments/assets/229919c5-e14c-4b74-b22f-cb19f6801447" />
+<img width="1851" height="960" alt="Screenshot 2026-10-17 110922" src="https://github.com/user-attachments/assets/7e448e96-33cc-4be5-9d41-c99eb56246cb" />
+<img width="1851" height="955" alt="Screenshot 2026-10-17 110853" src="https://github.com/user-attachments/assets/202436c9-f700-421c-9df0-9a199148ab4f" />
 
 ## Features
 - URL analysis (24 features) and email-text classification (TF-IDF)
